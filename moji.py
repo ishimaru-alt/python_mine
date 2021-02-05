@@ -1,7 +1,9 @@
 # coding: UTF-8
-
 import mcpi.minecraft as minecraft
+
 import sys
+
+print("moji")
 
 mc = minecraft.Minecraft.create()
 
